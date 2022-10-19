@@ -15,8 +15,7 @@
 ### About Me:
 - 👨‍💻 I am Data Scientist from Russia.
 - 👀 Now I am looking for a job.
-- 🤖 Very interested in Computer Vision field!
-- 👾 My dream is to work in big Game Dev company!
+- 🤖 Very interested in Computer Vision and Natural Language Processing field!
 - 🛹 In my free time I skate and watch Stand-Up show.
 
 ---
