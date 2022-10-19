@@ -16,7 +16,7 @@
 - 👨‍💻 I am Data Scientist from Russia.
 - 👀 Now I am looking for a job.
 - 🤖 Very interested in Computer Vision and Natural Language Processing field!
-- 🛹 In my free time I skate and watch Stand-Up show.
+- 🛹 In my free time I skateboarding and watch Stand-Up show.
 
 ---
 
