@@ -12,11 +12,12 @@
 
 ---
 
-### About Me:
+### 📝 About Me:
 - 👨‍💻 I am Data Scientist from Russia.
 - 👀 Now I am looking for a job.
-- 🤖 Very interested in Computer Vision and Natural Language Processing field!
+- 🤖 Very interested in Computer Vision and Natural Language Processing!
 - 🛹 In my free time I skateboarding and watch Stand-Up show.
+- 💻 You can contact me via telegram https://t.me/Greedisgood999999
 
 ---
 
@@ -29,3 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>  
 </div>
+
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greedisgood999999&theme=dark&background=000000)](https://git.io/streak-stats) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greedisgood999999&theme=darcula&show_icons=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
