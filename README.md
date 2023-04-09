@@ -14,9 +14,9 @@
 
 ### 📝 About Me:
 - 👨‍💻 I am Data Scientist from Russia.
-- 👀 Now I am looking for a job.
+- 👀 I am looking for a new experience currently.
 - 🤖 Very interested in Computer Vision and Natural Language Processing!
-- 🛹 In my free time I skateboarding and watch Stand-Up show.
+- 🛹 I am into skateboarding and watching Stand-Up shows.
 - 💻 You can contact me via telegram https://t.me/Greedisgood999999
 
 ---
@@ -28,7 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" title="Sklearn" alt="Sklearn" width="93" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>
+  <img src="https://avatars.mds.yandex.net/get-lpc/1368426/57e2cc2f-a71a-46f2-b4fd-c26fdefca158/orig" title="ClickHouse" alt="ClickHouse" width="50" height="50"/>  
+    
 </div>
 
 ---
