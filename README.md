@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>
   <img src="https://avatars.mds.yandex.net/get-lpc/1368426/57e2cc2f-a71a-46f2-b4fd-c26fdefca158/orig" title="ClickHouse" alt="ClickHouse" width="50" height="50"/>  
-    
+   
 </div>
 
 ---
