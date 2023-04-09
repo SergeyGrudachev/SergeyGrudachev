@@ -5,7 +5,7 @@
 <h2>
   Hello, world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br>
-  My name is Sergey Grudachev and this is my GitHub profile!
+  My name is Sergei Grudachev and this is my GitHub profile!
 </h2>
 
 <img src="https://komarev.com/ghpvc/?username=SergeyGrudachev&style=flat-square&color=blue" alt=""/>
